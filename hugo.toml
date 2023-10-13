@@ -1,4 +1,4 @@
 baseURL = 'http://liuchang.name/'
 languageCode = 'en-us'
 title = 'CHANG的博客'
-theme = 'PaperMod'
+theme = 'ananke'
