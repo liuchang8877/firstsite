@@ -156,3 +156,9 @@ Change detected, rebuilding site.
 2023-10-13 02:39:13.235 -0400
 Source changed REMOVE        "/usr/local/bin/firstsite/content/pposts"
 Total in 4 ms
+adding created directory to watchlist /usr/local/bin/firstsite/content/post
+
+Change detected, rebuilding site.
+2023-10-13 05:48:40.736 -0400
+Source changed CREATE        "/usr/local/bin/firstsite/content/post/first.md"
+Total in 10 ms
