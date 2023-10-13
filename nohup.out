@@ -129,3 +129,30 @@ Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
 Web Server is available at http://localhost:38959/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2023-10-13 02:13:25.236 -0400
+Source changed WRITE         "/usr/local/bin/firstsite/content/index.md"
+Source changed WRITE         "/usr/local/bin/firstsite/content/index.md"
+Total in 7 ms
+adding created directory to watchlist /usr/local/bin/firstsite/content/pposts
+
+Change detected, rebuilding site.
+2023-10-13 02:38:39.736 -0400
+Total in 5 ms
+adding created directory to watchlist /usr/local/bin/firstsite/content/posts
+
+Change detected, rebuilding site.
+2023-10-13 02:38:59.737 -0400
+Total in 5 ms
+
+Change detected, rebuilding site.
+2023-10-13 02:39:06.235 -0400
+Source changed RENAME        "/usr/local/bin/firstsite/content/index.md"
+Source changed CREATE        "/usr/local/bin/firstsite/content/posts/index.md"
+Total in 6 ms
+
+Change detected, rebuilding site.
+2023-10-13 02:39:13.235 -0400
+Source changed REMOVE        "/usr/local/bin/firstsite/content/pposts"
+Total in 4 ms
